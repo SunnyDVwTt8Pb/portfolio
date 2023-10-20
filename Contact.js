@@ -9,13 +9,11 @@ const Contact = () => {
       </p>
       <ul>
         <li>
-          <strong>Email:</strong> <a href="mailto:lakshmiprasannareddy2003@gmail.com">Email</a>
+          <strong>Email:</strong> <a href="https://mail.google.com/mail/u/1/#inbox">Email</a>
         </li>
+        
         <li>
-          <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ramireddy-lakshmi-prasanna-675008247/" target="_blank" rel="noopener noreferrer">Linkedin</a>
-        </li>
-        <li>
-          <strong>GitHub:</strong> <a href=" https://github.com/prasanna212003" target="_blank" rel="noopener noreferrer">github</a>
+          <strong>GitHub:</strong> <a href=" https://github.com/SunnyDVwTt8Pb" target="_blank" rel="noopener noreferrer">github</a>
         </li>
        
       </ul>
